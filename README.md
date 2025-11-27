@@ -1,5 +1,7 @@
 ### Aerodynamics-Practical-Assignment 仓库使用指南
 
+~~当时对待作业真的好认真~~
+
 这个仓库提供了空气动力学中平板边界层(Blasius)方程的数值求解程序。通过Python代码实现Blasius方程的求解，并将结果可视化和导出为Excel文件。
 
 ### 仓库内容概述
